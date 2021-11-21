@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: Template
 headless: true
-weight: 15
+weight: 90
 title: Academic Template
 subtitle: ""
 active: true
