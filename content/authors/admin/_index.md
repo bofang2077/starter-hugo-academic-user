@@ -31,12 +31,12 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEd in Human Resource Development
+      institution: University Of Minnesota
+      year: 2019
+    - course: BSc in Applied Psychology
+      institution: Anqing Normal University
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
