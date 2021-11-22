@@ -1,16 +1,19 @@
 ---
 title: Bo Fang
 role: Doctoral Student of HRD
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: 20200807132929091_save-01-01.jpeg
+bio: My research interests include International/National HRD, employee
+  engagement, and training and development.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - International/National HRD
+  - Employee engagement
+  - Training and Development.
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: fang0297@umn.edu
+    display:
+      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -22,28 +25,33 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/bo-fang-21b14ba3
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: "Department of Organizational Leadership, Policy, and Development "
+    url: https://www.cehd.umn.edu/olpd/
+  - name: University Of Minnesota
+    url: https://twin-cities.umn.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MEd in Human Resource Development
       institution: University Of Minnesota
       year: 2019
     - course: BSc in Applied Psychology
       institution: Anqing Normal University
       year: 2016
-email: ""
+email: fang0297@umn.edu
 superuser: true
+user_groups: []
 highlight_name: true
 ---
+# ***Hey, I am Bo!***
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Thanks for visiting my website.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+![](img_8086.jpg)
+
+I am a doctoral student of HRD in the Department of Organizational Leadership, Policy, and Development, University of Minnesota. I am interested in finding the patterns behind the work behaviors, helping employees work with full engagement and meaningfulness, and improving individual and organizational development. More generally, my research focuses on exploring how HRD theories and interventions can contribute to the development of individuals, organizations, and society beyond different cultural backgrounds.
+
+Prior to coming to the HRD program, I was a training specialist in Ping An Life insurance where I worked on sales training and development.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
