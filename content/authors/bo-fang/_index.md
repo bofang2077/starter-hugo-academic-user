@@ -1,0 +1,57 @@
+---
+title: Bo Fang
+role: Doctoral Student of HRD
+avatar_filename: 20200807132929091_save-01-01.jpeg
+bio: My research interests include International/National HRD, employee
+  engagement, and training and development.
+interests:
+  - International/National HRD
+  - Employee engagement
+  - Training and Development.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: fang0297@umn.edu
+    display:
+      header: false
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/bo-fang-21b14ba3
+organizations:
+  - name: "Department of Organizational Leadership, Policy, and Development "
+    url: https://www.cehd.umn.edu/olpd/
+  - name: University Of Minnesota
+    url: https://twin-cities.umn.edu/
+education:
+  courses:
+    - course: MEd in Human Resource Development
+      institution: University Of Minnesota
+      year: 2019
+    - course: BSc in Applied Psychology
+      institution: Anqing Normal University
+      year: 2016
+email: fang0297@umn.edu
+superuser: true
+user_groups: []
+highlight_name: true
+---
+# ***Hey, I am Bo!***
+
+Thanks for visiting my website.
+
+![](img_8086.jpg)
+
+I am a doctoral student of HRD in the Department of Organizational Leadership, Policy, and Development, University of Minnesota. I am interested in finding the patterns behind the work behaviors, helping employees work with full engagement and meaningfulness, and improving individual and organizational development. More generally, my research focuses on exploring how HRD theories and interventions can contribute to the development of individuals, organizations, and society beyond different cultural backgrounds.
+
+Prior to coming to the HRD program, I was a training specialist in Ping An Life insurance where I worked on sales training and development.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
